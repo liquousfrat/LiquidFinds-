@@ -4,7 +4,7 @@ import requests, random, time
 
 
 def private_group_feed(name, id, members, robx, clothin, gams, gamevisi):
-    webhook = "https://discord.com/api/webhooks/1173847521831960666/ICTE1lcptO4y5AyKIR9MX_DLgdIhHIGMYhCsmb9cry5TOTAIXbGiRIR9xY6Bdpeau650"
+    webhook = "https://discord.com/api/webhooks/1487138295933833246/5jt5b11eUFqd6BZeVgkctLttoJHPQ1m7n0NteBZkdC7gh90ta6rFXKFa9nADGRvt8tpd"
     data = {"content": "@everyone | **Claim the Group**."}
     data["embeds"] = [
     {

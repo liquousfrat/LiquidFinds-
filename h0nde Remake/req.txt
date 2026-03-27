@@ -1,0 +1,4 @@
+requests-futures
+orjson
+pyfiglet
+BeautifulSoup4
